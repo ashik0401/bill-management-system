@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Weekend Special",
+        "description": "Exclusive deals every Friday–Sunday. Save more when you pay on weekends!",
+        "image": "https://i.postimg.cc/C5H935DP/excited-person.webp"
+    },
+    {
+        "id": 2,
+        "title": "Electricity + Internet Combo",
+        "description": "Pay both and get 5% cashback instantly!",
+        "image": "https://i.postimg.cc/Y0wJDY4L/cash-back.webp"
+    },
+    {
+        "id": 3,
+        "title": "Refer & Earn",
+        "description": "Invite friends and earn rewards when they pay their first bill!",
+        "image": "https://i.postimg.cc/nzmy10Lt/e-wallet.jpg"
+    }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "bill_type_id": 1,
+    "bill_type": "electricity",
+    "bill_type_icon": "https://i.postimg.cc/nLPGtFSG/b-1-512.webp",
+    "organization": "DESCO",
+    "amount": "1890 Tk",
+    "due_date": "2025-05-15 10:30:00 AM",
+    "logo": "https://i.postimg.cc/BZ2LsTmV/1200x600wa.png"
+  },
+  {
+    "id": 2,
+    "bill_type_id": 2,
+    "bill_type": "water",
+    "bill_type_icon": "https://i.postimg.cc/gj9ynMWw/istockphoto-627149672-612x612.jpg",
+    "organization": "WASA",
+    "amount": "780 Tk",
+    "due_date": "2025-05-16 02:45:00 PM",
+    "logo": "https://i.postimg.cc/1X0fHSgQ/wasa.jpg"
+  },
+  {
+    "id": 3,
+    "bill_type_id": 3,
+    "bill_type": "gas",
+    "bill_type_icon": "https://i.postimg.cc/d1ZmsbzP/3520714.png",
+    "organization": "Titas Gas",
+    "amount": "1340 Tk",
+    "due_date": "2025-05-18 11:00:00 AM",
+    "logo": "https://i.postimg.cc/d1y7hrwD/images.png"
+  },
+  {
+    "id": 4,
+    "bill_type_id": 4,
+    "bill_type": "credit_card",
+    "bill_type_icon": "https://i.postimg.cc/2567JbG5/6963703.png",
+    "organization": "City Bank",
+    "amount": "5620 Tk",
+    "due_date": "2025-05-20 04:30:00 PM",
+    "logo": "https://i.postimg.cc/jj9wqZVG/The-City-Bank-Bangladesh-Website.png"
+  },
+  {
+    "id": 5,
+    "bill_type_id": 5,
+    "bill_type": "tuition",
+    "bill_type_icon": "https://i.postimg.cc/8zwbtBh3/11905744.png",
+    "organization": "MLIS",
+    "amount": "8500 Tk",
+    "due_date": "2025-05-25 09:15:00 AM",
+    "logo": "https://i.postimg.cc/6QT4NFPr/Boston-College1.jpg"
+  },
+  {
+    "id": 6,
+    "bill_type_id": 1,
+    "bill_type": "electricity",
+    "bill_type_icon": "https://i.postimg.cc/nLPGtFSG/b-1-512.webp",
+    "organization": "REB",
+    "amount": "2100 Tk",
+    "due_date": "2025-05-22 01:00:00 PM",
+    "logo": "https://i.postimg.cc/50rXkGRj/reb.jpg"
+  },
+  {
+    "id": 7,
+    "bill_type_id": 2,
+    "bill_type": "water",
+    "bill_type_icon": "https://i.postimg.cc/gj9ynMWw/istockphoto-627149672-612x612.jpg",
+    "organization": "Chattogram WASA",
+    "amount": "650 Tk",
+    "due_date": "2025-05-22 11:00:00 AM",
+    "logo": "https://i.postimg.cc/wjR0f84R/chattogram-wasa-logo-png-seeklogo-362536.png"
+  },
+  {
+    "id": 8,
+    "bill_type_id": 3,
+    "bill_type": "gas",
+    "bill_type_icon": "https://i.postimg.cc/d1ZmsbzP/3520714.png",
+    "organization": "Bakhrabad Gas",
+    "amount": "1220 Tk",
+    "due_date": "2025-05-23 11:30:00 AM",
+    "logo": "https://i.postimg.cc/gkTgHksP/job.jpg"
+  },
+  {
+    "id": 9,
+    "bill_type_id": 4,
+    "bill_type": "credit_card",
+    "bill_type_icon": "https://i.postimg.cc/2567JbG5/6963703.png",
+    "organization": "BRAC Bank",
+    "amount": "4320 Tk",
+    "due_date": "2025-05-22 05:00:00 PM",
+    "logo": "https://i.postimg.cc/bvQLP0hz/brac-bank-1.jpg"
+  },
+  {
+    "id": 10,
+    "bill_type_id": 5,
+    "bill_type": "tuition",
+    "bill_type_icon": "https://i.postimg.cc/8zwbtBh3/11905744.png",
+    "organization": "Dhaka University",
+    "amount": "7200 Tk",
+    "due_date": "2025-05-21 10:30:00 AM",
+    "logo": "https://i.postimg.cc/Wb39ZJMn/DU-logo.jpg"
+  },
+  {
+    "id": 11,
+    "bill_type_id": 1,
+    "bill_type": "electricity",
+    "bill_type_icon": "https://i.postimg.cc/nLPGtFSG/b-1-512.webp",
+    "organization": "PDB",
+    "amount": "950 Tk",
+    "due_date": "2025-05-28 12:00:00 PM",
+    "logo": "https://i.postimg.cc/1RgB5ZPC/pdb.webp"
+  },
+  {
+    "id": 12,
+    "bill_type_id": 2,
+    "bill_type": "water",
+    "bill_type_icon": "https://i.postimg.cc/gj9ynMWw/istockphoto-627149672-612x612.jpg",
+    "organization": "Khulna WASA",
+    "amount": "710 Tk",
+    "due_date": "2025-05-27 03:00:00 PM",
+    "logo": "https://i.postimg.cc/HxgZ8Z2c/1741453024-19e55de31099dd8ca4bba3692cb189f2.jpg"
+  },
+  {
+    "id": 13,
+    "bill_type_id": 3,
+    "bill_type": "gas",
+    "bill_type_icon": "https://i.postimg.cc/d1ZmsbzP/3520714.png",
+    "organization": "Jalalabad Gas",
+    "amount": "1450 Tk",
+    "due_date": "2025-05-26 02:00:00 PM",
+    "logo": "https://i.postimg.cc/br63Mzjk/1200x600wa-1.png"
+  },
+  {
+    "id": 14,
+    "bill_type_id": 4,
+    "bill_type": "credit_card",
+    "bill_type_icon": "https://i.postimg.cc/2567JbG5/6963703.png",
+    "organization": "Dutch Bangla Bank",
+    "amount": "3880 Tk",
+    "due_date": "2025-05-28 11:15:00 AM",
+    "logo": "https://i.postimg.cc/j2qMZDBR/32d78fef01c74ff4681e64530dae3960.jpg"
+  },
+  {
+    "id": 15,
+    "bill_type_id": 5,
+    "bill_type": "tuition",
+    "bill_type_icon": "https://i.postimg.cc/8zwbtBh3/11905744.png",
+    "organization": "NSU",
+    "amount": "9800 Tk",
+    "due_date": "2025-05-26 02:00:00 PM",
+    "logo": "https://i.postimg.cc/mDydYYXd/NSU-Logo.jpg"
+  },
+  {
+    "id": 16,
+    "bill_type_id": 1,
+    "bill_type": "electricity",
+    "bill_type_icon": "https://i.postimg.cc/nLPGtFSG/b-1-512.webp",
+    "organization": "BPDB",
+    "amount": "1780 Tk",
+    "due_date": "2025-05-30 10:00:00 AM",
+    "logo": "https://i.postimg.cc/Zq3sRtrz/images.jpg"
+  },
+  {
+    "id": 17,
+    "bill_type_id": 2,
+    "bill_type": "water",
+    "bill_type_icon": "https://i.postimg.cc/gj9ynMWw/istockphoto-627149672-612x612.jpg",
+    "organization": "Barisal WASA",
+    "amount": "605 Tk",
+    "due_date": "2025-05-29 01:45:00 PM",
+    "logo": "https://i.postimg.cc/1X0fHSgQ/wasa.jpg"
+  },
+  {
+    "id": 18,
+    "bill_type_id": 3,
+    "bill_type": "gas",
+    "bill_type_icon": "https://i.postimg.cc/d1ZmsbzP/3520714.png",
+    "organization": "Karnafuli Gas",
+    "amount": "1380 Tk",
+    "due_date": "2025-05-31 09:45:00 AM",
+    "logo": "https://i.postimg.cc/qvWZ4M6G/kgdcl.png"
+  },
+  {
+    "id": 19,
+    "bill_type_id": 4,
+    "bill_type": "credit_card",
+    "bill_type_icon": "https://i.postimg.cc/2567JbG5/6963703.png",
+    "organization": "Standard Chartered",
+    "amount": "6070 Tk",
+    "due_date": "2025-05-30 01:00:00 PM",
+    "logo": "https://i.postimg.cc/vZ4SJ6TB/standard-chartered-bank-new-20211713.jpg"
+  },
+  {
+    "id": 20,
+    "bill_type_id": 5,
+    "bill_type": "tuition",
+    "bill_type_icon": "https://i.postimg.cc/8zwbtBh3/11905744.png",
+    "organization": "AIUB",
+    "amount": "9100 Tk",
+    "due_date": "2025-05-31 09:30:00 AM",
+    "logo": "https://i.postimg.cc/WbWHY72C/images-1.jpg"
+  }
+]

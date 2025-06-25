@@ -1,0 +1,132 @@
+#app {
+  height: 100%;
+}
+
+html,
+body {
+  position: relative;
+  height: 100%;
+}
+
+body {
+  background: #eee;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
+
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+
+  /* Center slide text vertically */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+
+
+
+@media (min-width: 1020px) and (max-width: 1383px) {
+  .custom-responsive {
+    flex-direction: column;
+    align-items: start;
+  }
+}
+
+@media (min-width: 470px) and (max-width: 766px) {
+  .custom-img-responsive {
+    display: flex;
+    margin: 0px 0px;
+    justify-content: center;
+
+  }
+}
+
+@media (min-width: 468px) and (max-width: 768px) {
+  .custom-img-responsive {
+    display: flex;
+    margin: 0px 0px;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+    
+  }
+}
+
+
+@media (min-width: 468px) and (max-width: 768px) {
+  .responsive {
+    height: calc(100vh - 256px);
+   
+  }
+}
+@media (min-width: 466px) and (max-width: 1383px) {
+  .responsive-text {
+    display: grid;
+    justify-content: center;
+    text-align: center;
+    
+    
+  }
+}
+
+
+
+
+
+@media (min-width: 451px) and (max-width: 765px) {
+
+  .responsive-card {
+    width: 90%;
+    max-width: 400px;
+    margin: auto;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1110px) {
+
+  .responsive-card-slid {
+  height: 300px;
+  }
+}
+@media (min-width: 433px) and (max-width: 771px) {
+
+  .responsive-card-reg {
+  width: 360.25px;
+  }
+}
+@media (min-width: 150px) and (max-width: 332px) {
+
+  .responsive-pr-reg {
+  width: 150px;
+  
+  
+  }
+}
+@media (min-width: 150px) and (max-width: 332px) {
+
+  .responsive-pr-f-reg {
+  font-size: small;
+
+  
+  }
+}
+
+

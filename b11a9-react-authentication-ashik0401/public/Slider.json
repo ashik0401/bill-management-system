@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.postimg.cc/dtBMQJVM/Adobe-Stock-223290240-1-2-scaled.webp",
+    "header": "Streamlined Billing Solutions",
+    "button": "Explore Billing Tools"
+  },
+  {
+    "id": 2,
+    "image": "https://i.postimg.cc/VL1QcJ1B/Blog-Ecommerce-Thumbnail.jpg",
+    "header": "E-Commerce Payment Integration",
+    "button": "Integrate Now"
+  },
+  {
+    "id": 3,
+    "image": "https://i.postimg.cc/3Rv53pd9/ecommerce-blog-featured-image.jpg",
+    "header": "Automated Invoicing for Online Stores",
+    "button": "Get Started"
+  },
+  {
+    "id": 4,
+    "image": "https://i.postimg.cc/kGPrG4SC/La-Cadena-de-valor-del-E-Commerce.jpg",
+    "header": "Seamless Value Chain Billing",
+    "button": "Optimize Workflow"
+  },
+  {
+    "id": 5,
+    "image": "https://i.postimg.cc/2yQsZDdZ/techniques-ecommerce-2022.jpg",
+    "header": "Modern Techniques for E-Billing",
+    "button": "Try It Today"
+  },
+  {
+    "id": 6,
+    "image": "https://i.postimg.cc/Df1kDrVw/What-is-E-Commerce-Business.jpg",
+    "header": "Full-Service Billing for E-Commerce",
+    "button": "Start Now"
+  }
+]

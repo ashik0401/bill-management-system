@@ -1,0 +1,126 @@
+[
+  {
+    "id": 1,
+    "name": "bKash",
+    "logo": "https://i.postimg.cc/PxHhLgtw/bkash.jpg",
+    "bill_types": [
+      "electricity",
+      "gas",
+      "water",
+      "internet",
+      "mobile recharge"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Rocket",
+    "logo": "https://i.postimg.cc/FRxv0TRn/dutch-bangla-rocket-logo-png-seeklogo-317692.png",
+    "bill_types": [
+      "electricity",
+      "water",
+      "mobile recharge",
+      "tuition fees"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Nagad",
+    "logo": "https://i.postimg.cc/y8w7KJtn/nagad.jpg",
+    "bill_types": [
+      "electricity",
+      "internet",
+      "gas",
+      "mobile recharge"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "SureCash",
+    "logo": "https://i.postimg.cc/8zFTxdKj/surecash-logo-png-seeklogo-344037.png",
+    "bill_types": [
+      "tuition fees",
+      "electricity",
+      "mobile recharge"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Tap",
+    "logo": "https://i.postimg.cc/bNVz6VR7/tap.png",
+    "bill_types": [
+      "electricity",
+      "water",
+      "mobile recharge"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "T-Cash",
+    "logo": "https://i.postimg.cc/FK3NHrQv/tcash.jpg",
+    "bill_types": [
+      "electricity",
+      "gas",
+      "internet"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "U-Cash",
+    "logo": "https://i.postimg.cc/cCXsGFG8/u-cash.png",
+    "bill_types": [
+      "electricity",
+      "mobile recharge"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Islami Bank mCash",
+    "logo": "https://i.postimg.cc/dtVsjcGR/m-cash.png",
+    "bill_types": [
+      "electricity",
+      "internet",
+      "tuition fees"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "OK Wallet",
+    "logo": "https://i.postimg.cc/1RHRF3V5/ok-img.png",
+    "bill_types": [
+      "electricity",
+      "water",
+      "gas",
+      "mobile recharge"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "MyCash",
+    "logo": "https://i.postimg.cc/ydh1vVfj/my-cash.png",
+    "bill_types": [
+      "electricity",
+      "internet",
+      "mobile recharge"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "TeleCash",
+    "logo": "https://i.postimg.cc/ZnTTQ12S/tele.png",
+    "bill_types": [
+      "electricity",
+      "internet",
+      "mobile recharge"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Upay",
+    "logo": "https://i.postimg.cc/JnC7NyQt/upay.png",
+    "bill_types": [
+      "electricity",
+      "gas",
+      "mobile recharge"
+    ]
+  }
+]
