@@ -31,7 +31,7 @@ const Slide = () => {
 
 
     return (
-        <div className=' mx-5 h-48 lg:h-82 responsive-card-slid '>
+        <div className='  h-48 lg:h-96 responsive-card-slid '>
 
             <Swiper
                 spaceBetween={30}
@@ -45,7 +45,7 @@ const Slide = () => {
                 }}
                 navigation={true}
                 modules={[Autoplay, Pagination, Navigation]}
-                className="mySwiper   max-h-[500px]  rounded-xl  "
+                className="mySwiper max-h-[500px]    "
             >
                 {data.map((item) => (
                     <SwiperSlide key={item.id}>
